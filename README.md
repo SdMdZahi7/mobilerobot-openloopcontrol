@@ -79,6 +79,9 @@ if _name_ == '_main_':
 ![robo](./img/robomaster.png)
 
 Insert image here:
+![output](in.jpeg)
+![output](final.jpeg)
+
 
 
 ## MobileRobot Movement Video:
